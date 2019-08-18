@@ -29,3 +29,9 @@ blockquote.newspaper header p{
 .signature{
     font-variant: small-caps;
 }
+
+.inscription{
+    text-align: center;
+    font-variant: small-caps;
+    border: 1px solid;
+}
