@@ -2,8 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 blockquote.newspaper header p{ 
-	font-style:
-	small-caps; 
+	font-style: small-caps; 
 	text-indent: 0; 
 	text-align: center; 
 } 
