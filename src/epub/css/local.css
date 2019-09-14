@@ -31,8 +31,9 @@ blockquote.newspaper header p{
 
 .inscription{
 	text-align: center;
-	font-variant: small-caps;
+	text-transform: uppercase;
 	border: 1px solid;
+	display: inline-block;
 }
 
 span[epub|type~="subtitle"]{
