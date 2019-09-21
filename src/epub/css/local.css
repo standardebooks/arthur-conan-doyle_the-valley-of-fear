@@ -29,7 +29,7 @@ blockquote.newspaper header p{
 	font-variant: small-caps;
 }
 
-.inscription{
+#chapter-1-1 blockquote:first-of-type{
 	text-align: center;
 	text-transform: uppercase;
 	border: 1px solid;
