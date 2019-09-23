@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-09-23T16:47:44Z</dc:date>
+		<meta property="dcterms:modified">2019-09-23T16:47:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,14 +44,15 @@
 		<dc:description id="description">The final novel in Sir Arthur Conan Doyle’s Sherlock Holmes series follows the eponymous hero as he investigates a Sussex murder seemingly connected with a secret society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Valley of Fear&lt;/i&gt; was the final novel in the Sherlock Holmes series by Sir Arthur Conan Doyle. The story originally appeared over several issues of the monthly &lt;i&gt;Strand Magazine&lt;/i&gt; in late 1914 before being published as a standalone novel. While Doyle would continue to publish Sherlock Holmes short stories until 1927, &lt;i&gt;The Valley of Fear&lt;/i&gt; remains Holmes’ final novel appearance.&lt;/p&gt;
-&lt;p&gt;In the first half of the novel, Holmes and his assistant Watson are called to assist with an investigation into the murder of John Douglas, a man apparently shot in his own home at point-blank range with a shotgun. The blast leaves little trace of a skull with which to identify him. As evidence is examined and witnesses within the house are questioned, Holmes uncovers holes in testimonies and a connection to a secret society that no one wishes to discuss.&lt;/p&gt;
-&lt;p&gt;The second half of the novel elucidates the back-story of the apparent murder victim, Douglas. Years prior, Douglas had been in Chicago, on the run from the law. Wandering under the name John McMurdo, Douglas identifies himself to the local chapter of the Eminent Order of Freemen as a member from another region. The group is known by the locals as “the Scowrers,” who terrorize and extort the townspeople like a mafia under the ruthless Councilor McGinty. McMurdo, no stranger to violence, joins the employ of the Scowrers and participates in an assault on a local newspaper editor. While McMurdo tries to elevate his status within the local order, other members begin to wonder if the group’s actions are getting too brazenly violent, lest they force the intervention of government officials beyond the reach of their bribery. Douglas’ character draws inspiration from the real-life story of James McParland, an American private detective and Pinkerton agent.&lt;/p&gt;
+			&lt;p&gt;In the first half of the novel, Holmes and his assistant Watson are called to assist with an investigation into the murder of John Douglas, a man apparently shot in his own home at point-blank range with a shotgun. The blast leaves little trace of a skull with which to identify him. As evidence is examined and witnesses within the house are questioned, Holmes uncovers holes in testimonies and a connection to a secret society that no one wishes to discuss.&lt;/p&gt;
+			&lt;p&gt;The second half of the novel elucidates the back-story of the apparent murder victim, Douglas. Years prior, Douglas had been in Chicago, on the run from the law. Wandering under the name John McMurdo, Douglas identifies himself to the local chapter of the Eminent Order of Freemen as a member from another region. The group is known by the locals as “the Scowrers,” who terrorize and extort the townspeople like a mafia under the ruthless Councilor McGinty. McMurdo, no stranger to violence, joins the employ of the Scowrers and participates in an assault on a local newspaper editor. While McMurdo tries to elevate his status within the local order, other members begin to wonder if the group’s actions are getting too brazenly violent, lest they force the intervention of government officials beyond the reach of their bribery. Douglas’ character draws inspiration from the real-life story of James McParland, an American private detective and Pinkerton agent.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3776</dc:source>
+		<dc:source>https://archive.org/details/valleyfearasher00doylgoog/page/n7</dc:source>
 		<meta property="se:production-notes">Some emphasis has been added to the text that was not present in the original Gutenberg transcription. These additions were based on comparison to a 1914 reference text.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">58702</meta>
+		<meta property="se:reading-ease.flesch">82.54</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Valley_of_Fear</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-valley-of-fear</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
@@ -65,9 +66,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n96030535</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Toby F. Charkin</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Charkin, Toby</meta>
+		<meta property="file-as" refines="#transcriber-1">Charkin, Toby F.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
+		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">mrk</meta>
@@ -79,6 +80,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
