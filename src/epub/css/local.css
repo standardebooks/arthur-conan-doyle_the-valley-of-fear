@@ -1,11 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-blockquote.newspaper header p{ 
-	font-variant: small-caps; 
-	text-indent: 0; 
-	text-align: center; 
-} 
+blockquote.newspaper header p{
+	font-variant: small-caps;
+	text-indent: 0;
+	text-align: center;
+}
 
 [epub|type~="z3998:letter"] header{
 	margin-bottom: 1em;
@@ -30,10 +30,15 @@ blockquote.newspaper header p{
 }
 
 #chapter-1-1 blockquote:first-of-type{
-	text-align: center;
-	text-transform: uppercase;
 	border: 1px solid;
 	display: inline-block;
+	padding: 1em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#chapter-1-1 blockquote:first-of-type p{
+	text-indent: 0;
 }
 
 .aside{
