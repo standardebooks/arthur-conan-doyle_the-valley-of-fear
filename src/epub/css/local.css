@@ -44,8 +44,3 @@ blockquote.newspaper header p{
 .aside{
 	font-variant: normal;
 }
-
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
