@@ -9,7 +9,7 @@ blockquote.newspaper header p{
 
 [epub|type~="z3998:letter"] header{
 	margin-bottom: 1em;
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:letter"] footer{
