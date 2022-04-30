@@ -1,12 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-blockquote.newspaper header p{
-	font-variant: small-caps;
-	text-align: center;
-	text-indent: 0;
-}
-
 [epub|type~="z3998:letter"] header{
 	margin-bottom: 1em;
 	text-align: initial;
@@ -39,8 +33,4 @@ blockquote.newspaper header p{
 
 #chapter-1-1 blockquote:first-of-type p{
 	text-indent: 0;
-}
-
-.aside{
-	font-variant: normal;
 }
