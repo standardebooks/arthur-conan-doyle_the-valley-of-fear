@@ -42,6 +42,8 @@
 		<meta id="collection-1" property="belongs-to-collection">Sherlock Holmes</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">7</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">The final novel in Sir Arthur Conan Doyle’s Sherlock Holmes series follows the eponymous hero as he investigates a Sussex murder seemingly connected with a secret society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Valley of Fear&lt;/i&gt; is the final novel in the &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt; series by &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Sir Arthur Conan Doyle&lt;/a&gt;. The story originally appeared over several issues of the monthly &lt;i&gt;Strand Magazine&lt;/i&gt; in late 1914 before being published as a standalone work. While Doyle would continue to publish Sherlock Holmes short stories until 1927, &lt;i&gt;The Valley of Fear&lt;/i&gt; remains Holmes’ final long-form appearance.&lt;/p&gt;
