@@ -57,7 +57,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3776</dc:source>
 		<dc:source>https://archive.org/details/valleyfearasher00doylgoog</dc:source>
 		<meta property="se:production-notes">Some emphasis has been added to the text that was not present in the original Gutenberg transcription. These additions were based on comparison to a 1914 reference text.</meta>
-		<meta property="se:word-count">58703</meta>
+		<meta property="se:word-count">57756</meta>
 		<meta property="se:reading-ease.flesch">82.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Valley_of_Fear</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-valley-of-fear</meta>
