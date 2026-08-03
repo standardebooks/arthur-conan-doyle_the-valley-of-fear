@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/arthur-conan-doyle/the-valley-of-fear</dc:identifier>
 		<dc:date>2019-09-23T16:47:44Z</dc:date>
@@ -49,11 +49,11 @@
 		<meta id="collection-3" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">3</meta>
-		<dc:description id="description">The final novel in Sir Arthur Conan Doyle’s Sherlock Holmes series follows the eponymous hero as he investigates a Sussex murder seemingly connected with a secret society.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The final novel in Sir Arthur Conan Doyle’s Sherlock Holmes series follows the eponymous hero as he investigates a Sussex murder seemingly connected with a secret society.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Valley of Fear&lt;/i&gt; is the final novel in the &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt; series by &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Sir Arthur Conan Doyle&lt;/a&gt;. The story originally appeared over several issues of the monthly &lt;i&gt;Strand Magazine&lt;/i&gt; in late 1914 before being published as a standalone work. While Doyle would continue to publish Sherlock Holmes short stories until 1927, &lt;i&gt;The Valley of Fear&lt;/i&gt; remains Holmes’ final long-form appearance.&lt;/p&gt;
 			&lt;p&gt;In the novel, Holmes and his assistant Watson are called to assist with an investigation into the murder of John Douglas, a man shot in his own home at point-blank range with a shotgun. As evidence is examined and witnesses within the house are questioned, Holmes uncovers holes in testimonies and a connection to a secret society that no one wishes to discuss.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3776</dc:source>
 		<dc:source>https://archive.org/details/valleyfearasher00doylgoog</dc:source>
